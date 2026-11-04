@@ -13,6 +13,12 @@ Namco's 1997 light-gun arcade game, as a native app for Macs with Apple silicon.
 | **You need** | Your own copy of the game: the MAME ROM set `timecrs2.zip` (and `namco_tssio.zip`, if your set has it) |
 | **Status** | ✅ Playable |
 
+## Watch it
+
+[<img src="../images/time-crisis-2-video.jpg" alt="Watch Time Crisis II on a Mac: a 30-second video, with sound" width="100%">](https://github.com/gkaragioul/mac-ports/blob/main/videos/time-crisis-2.mp4)
+
+A real game recorded on a Mac, with the game's own sound. The arcade original is on the left of the split screen, and the Mac version on the right.
+
 ## What's new on the Mac
 
 - Native Apple silicon app, drawn with Metal. Nothing is emulated.
