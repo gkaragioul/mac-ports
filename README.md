@@ -23,6 +23,6 @@ Each game page has the install steps, the controls and help if something goes wr
 
 ## Credits
 
-These ports build on the work of open-source projects that translated the original arcade code. Each game page credits its project. Each Mac port is also offered back to its project.
+Where a port builds on an open-source project, its game page credits that project, and the Mac port is offered back to it.
 
 *Time Crisis is a trademark of Bandai Namco Entertainment. This is an unofficial fan project, not affiliated with or endorsed by any game publisher. No game data is included or distributed here.*
