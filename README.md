@@ -1,8 +1,8 @@
-<p align="center"><img src="images/banner.jpg" alt="Mac Ports: classic arcade games, rebuilt to run natively on Apple silicon Macs" width="100%"></p>
+<p align="center"><img src="images/banner.jpg" alt="Mac Ports: games, rebuilt to run natively on Apple silicon Macs" width="100%"></p>
 
-Classic arcade games, rebuilt as native apps for Macs with Apple silicon. Nothing is emulated: each game's original code is translated into a Mac program and drawn with Metal, at up to 120 frames per second, in widescreen, with mouse controls.
+Games, rebuilt as native apps for Macs with Apple silicon. Nothing is emulated: each game runs as a real Mac program, drawn with Metal. Every game page lists what's new on the Mac.
 
-Every download is free. The apps don't include the games themselves: you bring your own copy of each arcade game, and the app asks for it the first time it opens.
+Every download is free. The apps don't include the games themselves: you bring your own copy of each game, and the app asks for it the first time it opens.
 
 ## The games
 
