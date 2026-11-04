@@ -15,7 +15,7 @@ Namco's 1995 light-gun arcade game, as a native app for Macs with Apple silicon.
 
 ## Watch it
 
-[<img src="../images/time-crisis-video.jpg" alt="Watch Time Crisis on a Mac: a 30-second video, with sound" width="100%">](https://github.com/gkaragioul/mac-ports/blob/main/videos/time-crisis.mp4)
+[<img src="../images/time-crisis-video.jpg" alt="Watch Time Crisis on a Mac: a 30-second video, with sound" width="100%">](https://gkaragioul.github.io/mac-ports/videos/time-crisis.mp4)
 
 A real game recorded on a Mac, with the game's own sound. The arcade original is on the left of the split screen, and the Mac version on the right.
 
