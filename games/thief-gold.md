@@ -6,7 +6,7 @@
 
 **The 1999 stealth classic by Looking Glass Studios, rebuilt as a native Mac game.** It runs on Apple silicon with nothing emulated and nothing translated. Every frame is drawn with Metal at up to 120 frames per second, with modern lighting, AI-remastered cutscenes and console-simple settings.
 
-> 🔬 **A research project.** It shows what a complete native port can do. It isn't sold or available for download; see [For publishers and rights holders](#for-publishers-and-rights-holders).
+> 🔬 **Research port:** a complete native Mac version, shown here in action. [Rights holders: let's talk.](#for-publishers-and-rights-holders)
 
 ## At a glance
 
@@ -22,9 +22,17 @@
 
 ## Watch it
 
-[<img src="../images/thief-gold-video.jpg" alt="Watch Thief Gold on a Mac: a 25-second video" width="100%">](https://gkaragioul.github.io/mac-ports/videos/thief-gold.mp4)
+[<img src="../images/thief-gold-video.jpg" alt="Watch Thief Gold on a Mac: a 35-second video" width="100%">](https://gkaragioul.github.io/mac-ports/videos/thief-gold.mp4)
 
-Real gameplay views recorded on a Mac, in Lord Bafford's Manor, the haunted cathedral, the city streets and a library, on the Quality setting. The video has no sound.
+35 seconds of real gameplay recorded on a Mac, on the Quality setting: sword fights with Bafford's guards, broadhead arrows, a zombie attack, a fire elemental lighting up the fog, the haunted cathedral and the city at night. The video has no sound.
+
+## In action
+
+<img src="../images/thief-gold-sword.jpg" alt="Thief Gold on a Mac: Garrett's sword against Bafford's guards" width="49%"> <img src="../images/thief-gold-bow.jpg" alt="Thief Gold on a Mac: a broadhead arrow finds its mark" width="49%">
+
+<img src="../images/thief-gold-zombie.jpg" alt="Thief Gold on a Mac: a zombie lunges in among the guards" width="49%"> <img src="../images/thief-gold-fire.jpg" alt="Thief Gold on a Mac: a fire elemental lights up a foggy street" width="49%">
+
+*Sword against Bafford's guards · a broadhead arrow finds its mark · a zombie joins the fight · a fire elemental lights up the fog*
 
 ## Then and now
 
@@ -89,9 +97,9 @@ Measured on a MacBook Pro with an M5 Pro, in Lord Bafford's Manor, drawing 3456�
 
 ## For publishers and rights holders
 
-This port is built on Dark Engine source code that isn't open-source and still belongs to the game's rights holders. So it is kept as private research: the app and its source are not shared, and nothing here is sold.
+Thief Gold runs on the Mac today: every mission, every cutscene, at up to 120 fps. It's built on the Dark Engine source, which belongs to the game's rights holders, so it's waiting for their go-ahead before anyone else can play it.
 
-If you hold the rights to Thief and would like to talk about an official Mac release, please [open an issue](https://github.com/gkaragioul/mac-ports/issues) in this repository.
+If you hold the rights to Thief, let's talk about an official Mac release: [open an issue](https://github.com/gkaragioul/mac-ports/issues) in this repository.
 
 To play Thief Gold today, buy it on [GOG](https://www.gog.com/game/thief_gold) or [Steam](https://store.steampowered.com/app/211600/Thief_Gold/).
 
