@@ -22,7 +22,9 @@
 
 ## Watch it
 
-[<img src="../images/thief-gold-video.jpg" alt="Watch Thief Gold on a Mac: a 35-second video" width="100%">](https://gkaragioul.github.io/mac-ports/videos/thief-gold.mp4)
+[<img src="../images/thief-gold-video.jpg" alt="Play button: watch Thief Gold on a Mac, a 35-second video" width="100%">](https://gkaragioul.github.io/mac-ports/videos/thief-gold.mp4)
+
+**▶️ [Play the video (35 seconds)](https://gkaragioul.github.io/mac-ports/videos/thief-gold.mp4)**
 
 35 seconds of real gameplay recorded on a Mac, on the Quality setting: sword fights with Bafford's guards, broadhead arrows, a zombie attack, a fire elemental lighting up the fog, the haunted cathedral and the city at night. The video has no sound.
 
