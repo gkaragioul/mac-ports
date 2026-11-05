@@ -10,7 +10,7 @@ Every download is free. The apps don't include the games themselves: you bring y
 |---|---|---|---|---|---|
 | <img src="images/time-crisis-1.jpg" width="160"> | **Time Crisis** | Namco arcade, 1995 | ✅ Playable | [⬇️ Download (9.8 MB)](https://github.com/gkaragioul/namco22-decompile/releases/download/mac-1.0/Time-Crisis-for-Mac-1.0.dmg) | [Game page](games/time-crisis.md) |
 | <img src="images/time-crisis-ii-1.jpg" width="160"> | **Time Crisis II** | Namco arcade, 1997 | ✅ Playable | [⬇️ Download (10.3 MB)](https://github.com/gkaragioul/namco22-decompile/releases/download/mac-1.0/Time-Crisis-II-for-Mac-1.0.dmg) | [Game page](games/time-crisis-2.md) |
-| <img src="images/thief-gold-1.jpg" width="160"> | **Thief Gold** | Looking Glass Studios, PC, 1999 | 🔬 Research | Not available | [Game page](games/thief-gold.md) |
+| <img src="images/thief-gold-cathedral.jpg" width="160"> | **Thief Gold** | Looking Glass Studios, PC, 1999 | 🔬 Research | Not available | [Game page](games/thief-gold.md) |
 
 More games will be added to this list as their ports are finished.
 
